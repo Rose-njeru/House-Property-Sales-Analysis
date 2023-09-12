@@ -38,7 +38,7 @@ Explore geographic variation in property prices by analyzing data across differe
 
 5. Are there significant differences in property prices between different postcodes (e.g., 2906 and 2615)?
 
-6. Use the window function to deduce the top six postcodes by year's price.
+6. Deduce the top six postcodes by year's price.
 
 7.  Are there  specific neighborhoods or postcodes that have shown consistent growth in property prices?
 
