@@ -1,6 +1,20 @@
 # House-Property-Sales-Analysis
 The retail industry now heavily relies on data analytics tools to better estimate the prices of different properties. This case study analyses the sales of house properties in a city in Australia.
 
+## The Dataset
+The dataset contains four columns:
++ Datesold: The date when an owner sold the house to a buyer.
+
++ Postcode: 4-digit postcode of the suburb where the owner sold the property
+
++ PropetyType: The type of property either a house or unit.
+
++ Price: The price for which the owner sold the property.
+
++ Bedrooms: Number of bedrooms
+  
+[Dataset](https://www.kaggle.com/datasets/htagholdings/property-sales)
+
 ## Problem Statement
 
 This data analytics project aims to analyze and derive insights from the property sales dataset  to  understand the factors influencing property prices and explore trends in the real estate market.
