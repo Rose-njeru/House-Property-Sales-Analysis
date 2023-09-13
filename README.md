@@ -1,5 +1,5 @@
 # House-Property-Sales-Analysis
-The retail industry now heavily relies on data analytics tools to better estimate the prices of different properties. This case study analyses the sales of house properties in a city in Australia.
+The retail industry now heavily relies on data analytics tools to better estimate the prices of different properties. This case study analyses the sales of house properties in a city in Australia using **SQL**.
 
 ## The Dataset
 The dataset contains four columns:
