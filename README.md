@@ -34,9 +34,9 @@ Explore geographic variation in property prices by analyzing data across differe
 
 3. How has the average property price changed over time? Are there any seasonal patterns or long-term trends?
 
-4.  Is there any correlation between property prices and property type (e.g., house, apartment)?
+4.  Is there any correlation between property prices and property type?
 
-5. Are there significant differences in property prices between different postcodes (e.g., 2906 and 2615)?
+5. Are there significant differences in property prices between different postcodes?
 
 6. Deduce the top six postcodes by year's price.
 
@@ -46,7 +46,7 @@ Explore geographic variation in property prices by analyzing data across differe
 
 9.  Which year witnessed the lowest number of sales?
 
-10. Find out the postcode with the highest average price per sale. (Using Aggregate Functions)
+10. Find out the postcode with the highest average price per sale.
 
 11. Are there any patterns or trends in the dates of property sales?
 
@@ -55,6 +55,9 @@ Explore geographic variation in property prices by analyzing data across differe
 13.   Can we identify any potential investment opportunities or areas where property prices have the potential to increase significantly?
 
 ## Assumptions
-  -
-
+  - Currency remained stable over time. Currency fluctuations impact price changes.
+  - Market homogeneity; implying  the market is relatively homogenous within the defined geographical areas ( postcodes).
+  - Market conditions were stable over the analysis period. Market fluctuations can happen due to economic or political factors.
+  - All relevant factors influencing property prices are included in the dataset i.e. external factors can influence price e.g. market sentiment but for this case study, only the variables listed in the dataset affect price.
+  - Changes in Property prices are reflected in the data promptly.
 
