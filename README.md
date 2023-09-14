@@ -2,7 +2,7 @@
 The retail industry now heavily relies on data analytics tools to better estimate the prices of different properties. This case study analyses the sales of house properties in a city in Australia using **SQL**.
 
 ## The Dataset
-The dataset contains four columns:
+The dataset contains five columns:
 + Datesold: The date when an owner sold the house to a buyer.
 
 + Postcode: 4-digit postcode of the suburb where the owner sold the property
